@@ -5,7 +5,7 @@
 
   <!-- TYPING ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&width=550&lines=App+Developer+%26+Vibe+Coder;Flutter+%26+Mobile+App+Enthusiast;Building+AI-Assisted+Modern+Apps;CSE+Student+%40+BUBT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&width=550&lines=App+Developer+%26+Vibe+Coder;Flutter+%26+Java+App+Enthusiast;Building+AI-Assisted+Modern+Apps;CSE+Student+%40+BUBT" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -15,17 +15,17 @@
   <p>
     🚀 Main focus: <b>App Development</b> & <b>Vibe Coding</b> (Building fast with AI & modern tools)<br/>
     🎓 <b>CSE Student</b> at Bangladesh University of Business and Technology (BUBT)<br/>
-    🎨 Skilled in <b>Flutter, C++, Motion Graphics & Creative Design</b><br/>
+    🎨 Skilled in <b>Flutter, Java, C++, Motion Graphics & Creative Design</b><br/>
     💼 Available for <b>Freelance App Dev & Design Projects</b>
   </p>
 
   <br/>
 
   <!-- TECH STACK & TOOLS -->
-  <h3>🛠️️ Tech Stack & Dev Tools</h3>
+  <h3>🛠 Tech Stack & Dev Tools</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,git,github,vscode,androidstudio,postman" />
+      <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,python,git,github,vscode,androidstudio,postman" />
     </a>
     <br/><br/>
     <a href="https://skillicons.dev">
@@ -51,12 +51,13 @@
   <br/>
 
   <!-- HIGHLIGHTED PROJECTS -->
-  <h3>🚀 Highlighted App Projects</h3>
+  <h3>🚀 Featured App Projects</h3>
 
   | Project | Description | Tech Stack |
   | :---: | :--- | :---: |
-  | 🧮 **OMNI_CALC** | Production-grade scientific calculator with glassmorphic UI | `Flutter` `Dart` |
-  | 📚 **EduTrack** | Academic task tracker & student workflow app | `Python` `Flutter` |
+  | 🗳️ **[CRConnect](https://github.com/shaddhow/CRConnect-App)** | Campus voting & CR management system with Figma Dark Glassmorphism UI & Anti-Dual-Voting security | `Java` `Android` `Figma` |
+  | 🧮 **[OMNI_CALC](https://github.com/shaddhow/OMNI_CALC)** | Production-grade scientific calculator with glassmorphic UI | `Flutter` `Dart` |
+  | 📚 **[EduTrack](https://github.com/shaddhow/EduTrack)** | Academic task tracker & student workflow app | `Python` `Flutter` |
 
   <br/>
 
