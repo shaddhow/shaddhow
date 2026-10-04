@@ -35,9 +35,9 @@
 
   <br/>
 
-  <!-- GITHUB TROPHIES -->
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=shaddhow&theme=onedark&column=4&margin-w=15&margin-h=15" width="90%" />
+  <!-- MOST USED LANGUAGES -->
+  <h3>⚡ Most Used Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddhow&theme=tokyonight&hide_border=true&layout=compact" width="60%" />
 
   <br/><br/>
 
@@ -48,7 +48,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaddhow&theme=tokyonight&hide_border=true" width="48%" />
   </p>
 
-  <br/>
+  <br/><br/>
 
   <!-- HIGHLIGHTED PROJECTS -->
   <h3>🚀 Featured App Projects</h3>
