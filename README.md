@@ -63,12 +63,21 @@ Availability:   Open for Freelance Projects & Engineering Collaborations
 
 ## `$ ls -la ~/projects`
 
-| Project | Highlights & Architecture | Tech Stack | Link |
+### 🚀 Production & Flagship Applications
+
+| Application | Highlights & Architecture | Tech Stack | Releases & Code |
 | :--- | :--- | :--- | :---: |
-| **Caloriq** | **Intelligent Nutrition & Macro Tracker**<br/>• Automated Mifflin-St Jeor BMR/TDEE deficit engine<br/>• Real-time Macro breakdown (Protein, Carbs, Fats)<br/>• Custom-painted cubic bezier scooped floating nav dock<br/>• Pure vector Q Logo with adaptive Light/Dark mode | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Material3](https://img.shields.io/badge/-Material_3-7B1FA2?style=flat-square) | [**Explore Code**](https://github.com/shaddhow/Caloriq) |
-| **CRConnect** | **Campus Voting & CR Management Platform**<br/>• Anti-dual-voting tamper-resistant security layer<br/>• Figma Dark Glassmorphic UI with micro-interactions<br/>• Real-time voter aggregation and role management | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | [**Explore Code**](https://github.com/shaddhow/CRConnect-App) |
-| **OMNI_CALC** | **Production-Grade Scientific Calculator**<br/>• Glassmorphic UI with tactile micro-interactions<br/>• High-fidelity mathematical processing engine<br/>• Clean state architecture for rapid calculation history | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | [**Explore Code**](https://github.com/shaddhow/OMNI_CALC) |
-| **EduTrack** | **Academic Task & Workflow Tracker**<br/>• Student assignment tracking and milestone scheduler<br/>• Cross-platform performance tracking and analytics | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [**Explore Code**](https://github.com/shaddhow/EduTrack) |
+| **Caloriq** `v1.0.0` | **Smart Nutrition & Macro Tracking Engine**<br/>• Automated Mifflin-St Jeor BMR/TDEE deficit engine<br/>• Real-time Macro breakdown (Protein, Carbs, Fats)<br/>• Custom-painted cubic bezier scooped floating nav dock<br/>• Pure vector Q Logo with adaptive Light/Dark mode | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Material3](https://img.shields.io/badge/-Material_3-7B1FA2?style=flat-square) | [**Repository**](https://github.com/shaddhow/Caloriq) · [**Releases**](https://github.com/shaddhow/Caloriq/releases) |
+| **CRConnect** `v1.2` | **Campus Voting & CR Management Platform**<br/>• Anti-dual-voting tamper-resistant security layer<br/>• Figma Dark Glassmorphic UI with micro-interactions<br/>• Real-time voter aggregation and role management | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | [**Repository**](https://github.com/shaddhow/CRConnect-App) |
+
+<br/>
+
+### ⚡ Open-Source Engineering & Utilities
+
+| Project | Highlights | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **OMNI_CALC** | Production-grade scientific calculator with glassmorphic UI & math parser | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | [**Explore**](https://github.com/shaddhow/OMNI_CALC) |
+| **EduTrack** | Academic task tracker and student workflow optimization platform | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [**Explore**](https://github.com/shaddhow/EduTrack) |
 
 <br/>
 
