@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=4CC9F0&center=true&vCenter=true&width=650&height=45&lines=Mobile+App+Developer+%26+Creative+UI+Engineer;Flutter+%26+Android+(Java)+Specialist;Building+Fast+with+AI-Assisted+Modern+Tools;Open+for+Freelance+Projects+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=1000&color=4CC9F0&center=true&vCenter=true&width=650&height=45&lines=Mobile+App+Developer+%26+Creative+UI+Engineer;Flutter+%26+Android+(Java)+Specialist;Building+Fast+with+AI-Assisted+Modern+Tools;Open+for+Freelance+Projects+%26+Collaborations" alt="Typing SVG" />
 </a>
 
 </div>
@@ -29,8 +29,7 @@ $ ./boot.sh --user shaddhow
 
 ## `$ cat about.md`
 
-> 📱 I build apps fast, mixing **AI-assisted development** with hand-crafted **glassmorphic UI**.
-> By day a CSE student at **BUBT**, by night a Flutter + Java builder and motion designer.
+> I engineer high-performance mobile applications combining **modern Flutter & Android architecture** with bespoke, glassmorphic UI designs. Computer Science & Engineering student at **BUBT**, actively building AI-accelerated applications and creative motion design.
 
 <br/>
 
@@ -38,14 +37,16 @@ $ ./boot.sh --user shaddhow
 
 <div align="center">
 
-| Skill | Level | Meter |
+| Domain | Competency | Meter |
 | :--- | :---: | :--- |
-| 📱 **Flutter / Dart** | 85% | `▰▰▰▰▰▰▰▰▱▱` |
-| ☕ **Java (Android)** | 80% | `▰▰▰▰▰▰▰▰▱▱` |
-| 🎨 **UI/UX (Figma)** | 85% | `▰▰▰▰▰▰▰▰▱▱` |
-| 🎬 **Motion (After Effects)** | 75% | `▰▰▰▰▰▰▰▱▱▱` |
-| ⚙️ **C++ / Python** | 70% | `▰▰▰▰▰▰▰▱▱▱` |
-| 🤖 **AI-Assisted Dev** | 90% | `▰▰▰▰▰▰▰▰▰▱` |
+| **Flutter / Dart** | 85% | `▰▰▰▰▰▰▰▰▱▱` |
+| **Java (Android)** | 80% | `▰▰▰▰▰▰▰▰▱▱` |
+| **UI/UX (Figma)** | 85% | `▰▰▰▰▰▰▰▰▱▱` |
+| **Motion Design (After Effects)** | 75% | `▰▰▰▰▰▰▰▱▱▱` |
+| **C++ / Python** | 70% | `▰▰▰▰▰▰▰▱▱▱` |
+| **AI-Assisted Development** | 90% | `▰▰▰▰▰▰▰▰▰▱` |
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,python,git,github,vscode,androidstudio,postman,figma,ae,ps,ai,canva&theme=dark&perline=8" />
 
@@ -53,31 +54,14 @@ $ ./boot.sh --user shaddhow
 
 <br/>
 
-## `$ ls ~/projects`
+## `$ ls -la ~/projects`
 
-<div align="center">
-
-<a href="https://github.com/shaddhow/Caloriq">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaddhow&repo=Caloriq&theme=synthwave&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=C9D1D9&border_color=7209B7&hide_border=false" width="48%" />
-</a>
-<a href="https://github.com/shaddhow/CRConnect-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaddhow&repo=CRConnect-App&theme=synthwave&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=C9D1D9&border_color=7209B7&hide_border=false" width="48%" />
-</a>
-<a href="https://github.com/shaddhow/OMNI_CALC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaddhow&repo=OMNI_CALC&theme=synthwave&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=C9D1D9&border_color=7209B7&hide_border=false" width="48%" />
-</a>
-<a href="https://github.com/shaddhow/EduTrack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaddhow&repo=EduTrack&theme=synthwave&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=C9D1D9&border_color=7209B7&hide_border=false" width="48%" />
-</a>
-
-</div>
-
-```text
-drwxr-xr-x  🥗  Caloriq     → smart calorie, macro & hydration tracker · Material 3 Bento UI
-drwxr-xr-x  🗳️  CRConnect   → campus voting + CR system · anti-dual-voting security
-drwxr-xr-x  🧮  OMNI_CALC   → production-grade scientific calculator · glassmorphic UI
-drwxr-xr-x  📚  EduTrack    → academic task tracker · student workflow app
-```
+| Project | Tech Stack | Highlights | Repository |
+| :--- | :--- | :--- | :---: |
+| **Caloriq** | `Flutter` `Dart` `Material 3` | Smart calorie, macro & hydration tracker with Bento Grid UX | [**View Code**](https://github.com/shaddhow/Caloriq) |
+| **CRConnect** | `Java` `Android` `Figma` | Campus voting and class representative system with secure auth | [**View Code**](https://github.com/shaddhow/CRConnect-App) |
+| **OMNI_CALC** | `Flutter` `Dart` | Production-grade scientific calculator with glassmorphic UI | [**View Code**](https://github.com/shaddhow/OMNI_CALC) |
+| **EduTrack** | `Flutter` `Python` | Academic workflow and student performance tracker | [**View Code**](https://github.com/shaddhow/EduTrack) |
 
 <br/>
 
@@ -85,14 +69,7 @@ drwxr-xr-x  📚  EduTrack    → academic task tracker · student workflow app
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaddhow&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=C9D1D9&ring_color=F72585" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddhow&theme=synthwave&hide_border=true&layout=compact&bg_color=0D1117&title_color=F72585&text_color=C9D1D9" height="170" />
-
 <img src="https://streak-stats.demolab.com?user=shaddhow&theme=synthwave&hide_border=true&background=0D1117&ring=F72585&fire=F72585&currStreakLabel=4CC9F0&sideLabels=4CC9F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" width="85%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=shaddhow&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddhow&bg_color=0D1117&color=F72585&line=7209B7&point=4CC9F0&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -116,9 +93,9 @@ drwxr-xr-x  📚  EduTrack    → academic task tracker · student workflow app
 
 ```bash
 #!/bin/bash
-echo "Need a mobile app, a slick UI, or a motion graphic?"
-echo "Mahabub is available for freelance projects."
-echo "Delivery: fast · Design: clean · Code: modern"
+echo "Looking for a high-performance mobile app or bespoke UI?"
+echo "Mahabub is open for freelance projects and engineering roles."
+echo "Delivery: Fast | Architecture: Clean | Design: Production-Grade"
 ```
 
 <div align="center">
@@ -130,10 +107,10 @@ echo "Delivery: fast · Design: clean · Code: modern"
 
 <br/><br/>
 
-![Views](https://komarev.com/ghpvc/?username=shaddhow&label=VISITORS&color=F72585&style=flat-square&labelColor=0D1117)
+![Visitors](https://komarev.com/ghpvc/?username=shaddhow&label=VISITORS&color=F72585&style=flat-square&labelColor=0D1117)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,50:7209B7,100:4CC9F0&height=8&section=footer" width="100%" />
 
-<sub>`exit 0` · thanks for stopping by 👾</sub>
+<sub>`exit 0` · thanks for stopping by</sub>
 
 </div>
