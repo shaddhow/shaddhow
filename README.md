@@ -1,79 +1,139 @@
 <div align="center">
 
-  <!-- HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=220&section=header&text=Mahabub%20Shaddhow&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7209B7,100:4CC9F0&height=210&section=header&text=Mahabub%20Shaddhow&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Creative%20UI%20Engineer&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
 
-  <!-- TYPING ANIMATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&width=550&lines=App+Developer+%26+Vibe+Coder;Flutter+%26+Java+App+Enthusiast;Building+AI-Assisted+Modern+Apps;CSE+Student+%40+BUBT" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <br/><br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=4CC9F0&center=true&vCenter=true&width=650&height=45&lines=Mobile+App+Developer+%26+Creative+UI+Engineer;Flutter+%26+Android+(Java)+Specialist;Building+Fast+with+AI-Assisted+Modern+Tools;Open+for+Freelance+Projects+%26+Collaborations" alt="Typing SVG" />
+</a>
 
-  <!-- ABOUT ME -->
-  <h3>About Me</h3>
-  <p>
-    Core Focus: <b>Application Development</b> & <b>Vibe Coding</b> (Rapid software engineering with AI and modern frameworks)<br/>
-    Academic: <b>CSE Undergraduate</b> at Bangladesh University of Business and Technology (BUBT)<br/>
-    Expertise: <b>Flutter, Java, C++, Motion Graphics and Product Design</b><br/>
-    Collaboration: Open for <b>Software Engineering, App Development, and UI/UX Design Roles</b>
-  </p>
+</div>
 
-  <br/>
+<br/>
 
-  <!-- TECH STACK & TOOLS -->
-  <h3>Tech Stack & Development Tools</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,python,git,github,vscode,androidstudio,postman" />
-    </a>
-    <br/><br/>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ae,ps,ai,figma,canva" />
-    </a>
-  </p>
+## `~/boot.sh`
 
-  <br/>
+```bash
+$ ./boot.sh --user shaddhow
 
-  <!-- MOST USED LANGUAGES -->
-  <h3>Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddhow&theme=tokyonight&hide_border=true&layout=compact" width="60%" />
+[  OK  ] Loading identity .............. Mahabub Shaddhow
+[  OK  ] Mounting university ........... BUBT · CSE
+[  OK  ] Starting main focus ........... App Dev + Vibe Coding
+[  OK  ] Linking creative engine ....... Motion · UI · Branding
+[  OK  ] Checking availability ......... FREELANCE: OPEN
+[ ACTIVE ] Latest release .............. Caloriq (Smart Nutrition & Macro Tracker)
+```
 
-  <br/><br/>
+<br/>
 
-  <!-- STATS & STREAK -->
-  <h3>GitHub Statistics</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=shaddhow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaddhow&theme=tokyonight&hide_border=true" width="48%" />
-  </p>
+## `$ cat about.md`
 
-  <br/><br/>
+> 📱 I build apps fast, mixing **AI-assisted development** with hand-crafted **glassmorphic UI**.
+> By day a CSE student at **BUBT**, by night a Flutter + Java builder and motion designer.
 
-  <!-- HIGHLIGHTED PROJECTS -->
-  <h3>Featured Engineering Projects</h3>
+<br/>
 
-  | Project | Description | Tech Stack |
-  | :---: | :--- | :---: |
-  | **[Caloriq](https://github.com/shaddhow/Caloriq)** | Data-driven calorie, macronutrient, and hydration tracking platform with adaptive TDEE calculation and Material 3 design | `Flutter` `Dart` `Firebase` |
-  | **[CRConnect](https://github.com/shaddhow/CRConnect-App)** | Campus voting and class representative management platform with Glassmorphism UI and anti-dual-voting verification | `Java` `Android` `Figma` |
-  | **[OMNI_CALC](https://github.com/shaddhow/OMNI_CALC)** | Production-grade scientific and financial calculator application featuring glassmorphic interface | `Flutter` `Dart` |
-  | **[EduTrack](https://github.com/shaddhow/EduTrack)** | Academic task manager and student workflow optimization platform | `Python` `Flutter` |
+## `$ ./skills --levels`
 
-  <br/>
+<div align="center">
 
-  <!-- CONNECT WITH ME -->
-  <h3>Connect & Contact</h3>
-  <p>
-    <a href="https://linkedin.com/in/mahabubshaddhow" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:mahabubshaddhow@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://facebook.com/mahabubshaddhow" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-  </p>
+| Skill | Level | Meter |
+| :--- | :---: | :--- |
+| 📱 **Flutter / Dart** | 85% | `▰▰▰▰▰▰▰▰▱▱` |
+| ☕ **Java (Android)** | 80% | `▰▰▰▰▰▰▰▰▱▱` |
+| 🎨 **UI/UX (Figma)** | 85% | `▰▰▰▰▰▰▰▰▱▱` |
+| 🎬 **Motion (After Effects)** | 75% | `▰▰▰▰▰▰▰▱▱▱` |
+| ⚙️ **C++ / Python** | 70% | `▰▰▰▰▰▰▰▱▱▱` |
+| 🤖 **AI-Assisted Dev** | 90% | `▰▰▰▰▰▰▰▰▰▱` |
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,python,git,github,vscode,androidstudio,postman,figma,ae,ps,ai,canva&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+## `$ ls ~/projects`
+
+<div align="center">
+
+<a href="https://github.com/shaddhow/Caloriq">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaddhow&repo=Caloriq&theme=synthwave&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=C9D1D9&border_color=7209B7&hide_border=false" width="48%" />
+</a>
+<a href="https://github.com/shaddhow/CRConnect-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaddhow&repo=CRConnect-App&theme=synthwave&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=C9D1D9&border_color=7209B7&hide_border=false" width="48%" />
+</a>
+<a href="https://github.com/shaddhow/OMNI_CALC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaddhow&repo=OMNI_CALC&theme=synthwave&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=C9D1D9&border_color=7209B7&hide_border=false" width="48%" />
+</a>
+<a href="https://github.com/shaddhow/EduTrack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaddhow&repo=EduTrack&theme=synthwave&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=C9D1D9&border_color=7209B7&hide_border=false" width="48%" />
+</a>
+
+</div>
+
+```text
+drwxr-xr-x  🥗  Caloriq     → smart calorie, macro & hydration tracker · Material 3 Bento UI
+drwxr-xr-x  🗳️  CRConnect   → campus voting + CR system · anti-dual-voting security
+drwxr-xr-x  🧮  OMNI_CALC   → production-grade scientific calculator · glassmorphic UI
+drwxr-xr-x  📚  EduTrack    → academic task tracker · student workflow app
+```
+
+<br/>
+
+## `$ git log --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shaddhow&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=C9D1D9&ring_color=F72585" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaddhow&theme=synthwave&hide_border=true&layout=compact&bg_color=0D1117&title_color=F72585&text_color=C9D1D9" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=shaddhow&theme=synthwave&hide_border=true&background=0D1117&ring=F72585&fire=F72585&currStreakLabel=4CC9F0&sideLabels=4CC9F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" width="85%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=shaddhow&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddhow&bg_color=0D1117&color=F72585&line=7209B7&point=4CC9F0&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
+
+## `$ snake --eat contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaddhow/shaddhow/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaddhow/shaddhow/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contribution graph" src="https://raw.githubusercontent.com/shaddhow/shaddhow/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+## `$ ./hire_me.sh`
+
+```bash
+#!/bin/bash
+echo "Need a mobile app, a slick UI, or a motion graphic?"
+echo "Mahabub is available for freelance projects."
+echo "Delivery: fast · Design: clean · Code: modern"
+```
+
+<div align="center">
+
+<a href="mailto:mahbubshaddhow@gmail.com"><img src="https://img.shields.io/badge/MAIL-F72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/mahabubshaddhow"><img src="https://img.shields.io/badge/LINKEDIN-7209B7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://facebook.com/mahabubshaddhow"><img src="https://img.shields.io/badge/FACEBOOK-4CC9F0?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/shaddhow"><img src="https://img.shields.io/badge/GITHUB-C9D1D9?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" /></a>
+
+<br/><br/>
+
+![Views](https://komarev.com/ghpvc/?username=shaddhow&label=VISITORS&color=F72585&style=flat-square&labelColor=0D1117)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F72585,50:7209B7,100:4CC9F0&height=8&section=footer" width="100%" />
+
+<sub>`exit 0` · thanks for stopping by 👾</sub>
 
 </div>
