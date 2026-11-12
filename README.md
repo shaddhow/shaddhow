@@ -21,7 +21,8 @@ Discipline:     Computer Science & Engineering (B.Sc. in CSE)
 Primary Focus:  High-Performance Mobile Apps & AI-Assisted Vibe Coding
 Core Tech:      Flutter, Dart, Java (Android), Modern C++, Python
 Creative:       Motion Graphics, Figma Glassmorphism, Custom Vector Engines
-Latest Build:   Caloriq — Smart Macro, Calorie & Hydration Tracker
+Latest Release: CRConnect v1.2 — Campus Voting Platform (Production Release)
+Active Build:   Caloriq — Smart Macro & Hydration Tracker (In Active Development)
 Availability:   Open for Freelance Projects & Engineering Collaborations
 ```
 
@@ -65,10 +66,10 @@ Availability:   Open for Freelance Projects & Engineering Collaborations
 
 ### 🚀 Production & Flagship Applications
 
-| Application | Highlights & Architecture | Tech Stack | Releases & Code |
+| Application | Highlights & Architecture | Tech Stack | Status & Links |
 | :--- | :--- | :--- | :---: |
-| **Caloriq** `v1.0.0` | **Smart Nutrition & Macro Tracking Engine**<br/>• Automated Mifflin-St Jeor BMR/TDEE deficit engine<br/>• Real-time Macro breakdown (Protein, Carbs, Fats)<br/>• Custom-painted cubic bezier scooped floating nav dock<br/>• Pure vector Q Logo with adaptive Light/Dark mode | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Material3](https://img.shields.io/badge/-Material_3-7B1FA2?style=flat-square) | [**Repository**](https://github.com/shaddhow/Caloriq) · [**Releases**](https://github.com/shaddhow/Caloriq/releases) |
-| **CRConnect** `v1.2` | **Campus Voting & CR Management Platform**<br/>• Anti-dual-voting tamper-resistant security layer<br/>• Figma Dark Glassmorphic UI with micro-interactions<br/>• Real-time voter aggregation and role management | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | [**Repository**](https://github.com/shaddhow/CRConnect-App) |
+| **CRConnect** `v1.2` | **Campus Voting & CR Management Platform**<br/>• Anti-dual-voting tamper-resistant security layer<br/>• Figma Dark Glassmorphic UI with micro-interactions<br/>• Real-time voter aggregation and role management | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | `● Production Release`<br/>[**Repository**](https://github.com/shaddhow/CRConnect-App) · [**Releases**](https://github.com/shaddhow/CRConnect-App/releases) |
+| **Caloriq** `WIP` | **Smart Nutrition & Macro Tracking Engine**<br/>• Automated Mifflin-St Jeor BMR/TDEE deficit engine<br/>• Real-time Macro breakdown (Protein, Carbs, Fats)<br/>• Custom-painted cubic bezier scooped floating nav dock<br/>• Pure vector Q Logo with adaptive Light/Dark mode | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Material3](https://img.shields.io/badge/-Material_3-7B1FA2?style=flat-square) | `🛠️ In Active Development`<br/>[**Track on GitHub**](https://github.com/shaddhow/Caloriq) |
 
 <br/>
 
