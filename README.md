@@ -41,7 +41,7 @@
 <br/><br/>
 
 <p>
-  <a href="https://shaddhow.github.io/Portfolio"><img src="./assets/social-portfolio.svg" width="49%" /></a>
+  <a href="https://shaddhow.github.io/Portfolio"><img src="./assets/social-portfolio.svg?v=2" width="49%" /></a>
   <a href="mailto:mahbubshaddhow@gmail.com"><img src="./assets/social-email.svg" width="49%" /></a>
 </p>
 <p>
