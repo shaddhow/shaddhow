@@ -10,23 +10,48 @@
 
 <br/><br/>
 
-<img src="./assets/projects.svg" width="100%" alt="Featured Architecture and Builds" />
-
-<br/>
-
 <p>
-  <a href="https://github.com/shaddhow/CRConnect-App"><img src="https://img.shields.io/badge/CRConnect_v1.2-Live_Repo-0F172A?style=for-the-badge&logo=github&logoColor=4CC9F0" /></a>
-  <a href="https://github.com/shaddhow/CRConnect-App/releases"><img src="https://img.shields.io/badge/CRConnect-APK_Releases-0F172A?style=for-the-badge&logo=android&logoColor=10B981" /></a>
-  <a href="https://github.com/shaddhow/Caloriq"><img src="https://img.shields.io/badge/Caloriq-Active_Build-0F172A?style=for-the-badge&logo=flutter&logoColor=F72585" /></a>
-  <a href="https://github.com/shaddhow/OMNI_CALC"><img src="https://img.shields.io/badge/OMNI__CALC-Source-0F172A?style=for-the-badge&logo=dart&logoColor=38BDF8" /></a>
-  <a href="https://github.com/shaddhow/EduTrack"><img src="https://img.shields.io/badge/EduTrack-Source-0F172A?style=for-the-badge&logo=python&logoColor=A78BFA" /></a>
+  <a href="https://github.com/shaddhow/CRConnect-App"><img src="./assets/card-crconnect.svg" width="49%" /></a>
+  <a href="https://github.com/shaddhow/Caloriq"><img src="./assets/card-caloriq.svg" width="49%" /></a>
+</p>
+<p>
+  <a href="https://github.com/shaddhow/OMNI_CALC"><img src="./assets/card-omnicalc.svg" width="49%" /></a>
+  <a href="https://github.com/shaddhow/EduTrack"><img src="./assets/card-edutrack.svg" width="49%" /></a>
 </p>
 
 <br/>
 
-<img src="./assets/stack.svg" width="100%" alt="Dual-Core Capabilities" />
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>ENGINEERING &amp; SYSTEMS CORE</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
+      <sub>ICPC Regionalist (Team BUBT_Brainstorm) · Codeforces: Lazy_Loaders</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>UI ARCHITECTURE &amp; MOTION CORE</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+        <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+        <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
+      </p>
+      <sub>Champion · Tech Fusion Fest Ad Making Challenge</sub>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=shaddhow&theme=synthwave&hide_border=true&background=090D16&ring=F72585&fire=F72585&currStreakLabel=4CC9F0&sideLabels=4CC9F0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" width="88%" />
 
