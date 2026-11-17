@@ -26,8 +26,8 @@
 <br/><br/>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=shaddhow&theme=synthwave&border=1E293B&border_radius=16&background=0D1322&ring=F72585&fire=F72585&currStreakLabel=4CC9F0&sideLabels=4CC9F0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddhow&bg_color=0D1322&color=4CC9F0&line=F72585&point=F8FAFC&area=true&area_color=F72585&border_color=1E293B&border_radius=16&custom_title=Contribution%20Pulse" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=shaddhow&theme=synthwave&border=1E293B&border_radius=16&background=0D1322&ring=F72585&fire=F72585&currStreakLabel=4CC9F0&sideLabels=4CC9F0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" height="185" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddhow&bg_color=0D1322&color=4CC9F0&line=F72585&point=F8FAFC&area=true&area_color=F72585&border_color=1E293B&border_radius=16&height=265&custom_title=Contribution%20Pulse" height="185" />
 </p>
 
 <br/>
