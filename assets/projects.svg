@@ -1,0 +1,84 @@
+<svg width="1000" height="430" viewBox="0 0 1000 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#090D16" />
+    </linearGradient>
+    <linearGradient id="cyanGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4CC9F0" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#4CC9F0" stop-opacity="0.1" />
+    </linearGradient>
+    <linearGradient id="pinkGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F72585" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#7209B7" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+
+  <text x="4" y="18" font-family="monospace" font-size="12" font-weight="bold" fill="#64748B" letter-spacing="1.5">FEATURED ARCHITECTURE AND BUILDS</text>
+
+  <!-- CARD 1: CRConnect -->
+  <rect x="0" y="34" width="488" height="240" rx="20" fill="url(#cardBg)" stroke="url(#cyanGlow)" stroke-width="1.5" />
+  <text x="28" y="72" font-family="sans-serif" font-size="22" font-weight="bold" fill="#F8FAFC">CRConnect</text>
+  <rect x="152" y="54" width="44" height="22" rx="6" fill="#1E293B" />
+  <text x="161" y="69" font-family="monospace" font-size="11" font-weight="bold" fill="#4CC9F0">v1.2</text>
+
+  <rect x="336" y="53" width="124" height="24" rx="12" fill="#10B981" fill-opacity="0.15" stroke="#10B981" stroke-opacity="0.4" />
+  <circle cx="350" cy="65" r="3.5" fill="#10B981" />
+  <text x="360" y="69" font-family="monospace" font-size="11" font-weight="bold" fill="#34D399">PRODUCTION</text>
+
+  <text x="28" y="96" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4CC9F0">Campus Voting and CR Management Platform</text>
+
+  <text x="28" y="128" font-family="sans-serif" font-size="12.5" fill="#CBD5E1">-  Tamper-resistant anti-dual-voting security architecture</text>
+  <text x="28" y="150" font-family="sans-serif" font-size="12.5" fill="#CBD5E1">-  ML Kit OCR student ID verification and role-based portals</text>
+  <text x="28" y="172" font-family="sans-serif" font-size="12.5" fill="#CBD5E1">-  Dark glassmorphic UI with real-time election analytics</text>
+
+  <rect x="28" y="218" width="56" height="26" rx="7" fill="#1E293B" />
+  <text x="42" y="235" font-family="monospace" font-size="11" font-weight="bold" fill="#E2E8F0">Java</text>
+  <rect x="92" y="218" width="76" height="26" rx="7" fill="#1E293B" />
+  <text x="106" y="235" font-family="monospace" font-size="11" font-weight="bold" fill="#E2E8F0">Android</text>
+  <rect x="176" y="218" width="80" height="26" rx="7" fill="#1E293B" />
+  <text x="189" y="235" font-family="monospace" font-size="11" font-weight="bold" fill="#E2E8F0">Firebase</text>
+  <rect x="264" y="218" width="68" height="26" rx="7" fill="#1E293B" />
+  <text x="278" y="235" font-family="monospace" font-size="11" font-weight="bold" fill="#E2E8F0">ML Kit</text>
+
+  <!-- CARD 2: Caloriq -->
+  <rect x="512" y="34" width="488" height="240" rx="20" fill="url(#cardBg)" stroke="url(#pinkGlow)" stroke-width="1.5" />
+  <text x="540" y="72" font-family="sans-serif" font-size="22" font-weight="bold" fill="#F8FAFC">Caloriq</text>
+  <rect x="626" y="54" width="42" height="22" rx="6" fill="#1E293B" />
+  <text x="636" y="69" font-family="monospace" font-size="11" font-weight="bold" fill="#F72585">WIP</text>
+
+  <rect x="842" y="53" width="130" height="24" rx="12" fill="#F72585" fill-opacity="0.15" stroke="#F72585" stroke-opacity="0.4" />
+  <circle cx="856" cy="65" r="3.5" fill="#F72585" />
+  <text x="866" y="69" font-family="monospace" font-size="11" font-weight="bold" fill="#F472B6">ACTIVE BUILD</text>
+
+  <text x="540" y="96" font-family="sans-serif" font-size="13" font-weight="bold" fill="#F472B6">Smart Nutrition and Macro Tracking Companion</text>
+
+  <text x="540" y="128" font-family="sans-serif" font-size="12.5" fill="#CBD5E1">-  Automated Mifflin-St Jeor BMR and TDEE deficit engine</text>
+  <text x="540" y="150" font-family="sans-serif" font-size="12.5" fill="#CBD5E1">-  Custom-painted cubic bezier scooped floating nav dock</text>
+  <text x="540" y="172" font-family="sans-serif" font-size="12.5" fill="#CBD5E1">-  Pure vector Q identity with adaptive Light/Dark themes</text>
+
+  <rect x="540" y="218" width="74" height="26" rx="7" fill="#1E293B" />
+  <text x="553" y="235" font-family="monospace" font-size="11" font-weight="bold" fill="#E2E8F0">Flutter</text>
+  <rect x="622" y="218" width="56" height="26" rx="7" fill="#1E293B" />
+  <text x="636" y="235" font-family="monospace" font-size="11" font-weight="bold" fill="#E2E8F0">Dart</text>
+  <rect x="686" y="218" width="94" height="26" rx="7" fill="#1E293B" />
+  <text x="699" y="235" font-family="monospace" font-size="11" font-weight="bold" fill="#E2E8F0">Material 3</text>
+  <rect x="788" y="218" width="84" height="26" rx="7" fill="#1E293B" />
+  <text x="800" y="235" font-family="monospace" font-size="11" font-weight="bold" fill="#E2E8F0">CustomPaint</text>
+
+  <!-- CARD 3: OMNI_CALC -->
+  <rect x="0" y="294" width="488" height="128" rx="18" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.5" />
+  <text x="28" y="332" font-family="sans-serif" font-size="17" font-weight="bold" fill="#F8FAFC">OMNI_CALC</text>
+  <rect x="380" y="315" width="80" height="22" rx="6" fill="#1E293B" />
+  <text x="392" y="330" font-family="monospace" font-size="11" font-weight="bold" fill="#38BDF8">Flutter</text>
+  <text x="28" y="360" font-family="sans-serif" font-size="13" fill="#94A3B8">Production-grade scientific calculator featuring a custom</text>
+  <text x="28" y="380" font-family="sans-serif" font-size="13" fill="#94A3B8">mathematical expression parser and glassmorphic interface.</text>
+
+  <!-- CARD 4: EduTrack -->
+  <rect x="512" y="294" width="488" height="128" rx="18" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.5" />
+  <text x="540" y="332" font-family="sans-serif" font-size="17" font-weight="bold" fill="#F8FAFC">EduTrack</text>
+  <rect x="832" y="315" width="140" height="22" rx="6" fill="#1E293B" />
+  <text x="844" y="330" font-family="monospace" font-size="11" font-weight="bold" fill="#A78BFA">Python | SQLite</text>
+  <text x="540" y="360" font-family="sans-serif" font-size="13" fill="#94A3B8">Desktop academic workflow suite with CGPA projections,</text>
+  <text x="540" y="380" font-family="sans-serif" font-size="13" fill="#94A3B8">ReportLab PDF analytics, and automated AI advising.</text>
+</svg>
