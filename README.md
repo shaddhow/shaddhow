@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shaddhow/shaddhow/main/assets/hero.svg?v=3" width="100%" />
+<img src="https://raw.githubusercontent.com/shaddhow/shaddhow/main/assets/hero.gif" width="100%" alt="Mahabub Shaddhow" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=1000&color=4CC9F0&background=090D16&center=true&vCenter=true&width=820&height=38&lines=%3E+Building+high-performance+Flutter+%26+Native+Android+applications;%3E+Architecting+glassmorphic+UI+systems+%26+fluid+motion+graphics;%3E+Shipping+CRConnect+v1.2+%26+developing+Caloriq+telemetry+engine;%3E+Available+for+freelance+engineering+%26+product+collaborations" alt="Live Status" />
+</a>
 
 <br/><br/>
 
