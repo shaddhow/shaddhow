@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shaddhow/shaddhow/main/assets/hero.svg?v=2" width="100%" />
+<img src="https://raw.githubusercontent.com/shaddhow/shaddhow/main/assets/hero.svg?v=3" width="100%" />
 
 <br/><br/>
 
