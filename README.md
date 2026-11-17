@@ -21,37 +21,9 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>ENGINEERING &amp; SYSTEMS CORE</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </p>
-      <sub>ICPC Regionalist (Team BUBT_Brainstorm) · Codeforces: Lazy_Loaders</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>UI ARCHITECTURE &amp; MOTION CORE</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-        <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-        <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
-      </p>
-      <sub>Champion · Tech Fusion Fest Ad Making Challenge</sub>
-    </td>
-  </tr>
-</table>
+<img src="./assets/stack.svg" width="100%" alt="Dual-Core Capabilities" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=shaddhow&theme=synthwave&hide_border=true&background=090D16&ring=F72585&fire=F72585&currStreakLabel=4CC9F0&sideLabels=4CC9F0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" width="88%" />
 
@@ -66,10 +38,12 @@
 <br/><br/>
 
 <p>
-  <a href="mailto:mahbubshaddhow@gmail.com"><img src="https://img.shields.io/badge/Email-mahbubshaddhow@gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=F72585" /></a>
-  <a href="https://linkedin.com/in/mahabubshaddhow"><img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=4CC9F0" /></a>
-  <a href="https://facebook.com/mahabubshaddhow"><img src="https://img.shields.io/badge/Facebook-Message-0F172A?style=for-the-badge&logo=facebook&logoColor=38BDF8" /></a>
+  <a href="mailto:mahbubshaddhow@gmail.com"><img src="./assets/social-email.svg" width="32%" /></a>
+  <a href="https://linkedin.com/in/mahabubshaddhow"><img src="./assets/social-linkedin.svg" width="32%" /></a>
+  <a href="https://facebook.com/mahabubshaddhow"><img src="./assets/social-facebook.svg" width="32%" /></a>
 </p>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=shaddhow&label=PROFILE+TELEMETRY&color=F72585&style=flat-square&labelColor=090D16" />
 
