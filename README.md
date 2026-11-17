@@ -25,26 +25,32 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=shaddhow&theme=synthwave&hide_border=true&background=090D16&ring=F72585&fire=F72585&currStreakLabel=4CC9F0&sideLabels=4CC9F0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" width="88%" />
+<p>
+  <img src="https://streak-stats.demolab.com?user=shaddhow&theme=synthwave&border=1E293B&border_radius=16&background=0D1322&ring=F72585&fire=F72585&currStreakLabel=4CC9F0&sideLabels=4CC9F0&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaddhow&bg_color=0D1322&color=4CC9F0&line=F72585&point=F8FAFC&area=true&area_color=F72585&border_color=1E293B&border_radius=16&custom_title=Contribution%20Pulse" width="49%" />
+</p>
 
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaddhow/shaddhow/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaddhow/shaddhow/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution graph snake" src="https://raw.githubusercontent.com/shaddhow/shaddhow/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  <img alt="contribution graph snake" src="https://raw.githubusercontent.com/shaddhow/shaddhow/output/github-contribution-grid-snake-dark.svg" width="98%" />
 </picture>
 
 <br/><br/>
 
 <p>
-  <a href="mailto:mahbubshaddhow@gmail.com"><img src="./assets/social-email.svg" width="32%" /></a>
-  <a href="https://linkedin.com/in/mahabubshaddhow"><img src="./assets/social-linkedin.svg" width="32%" /></a>
-  <a href="https://facebook.com/mahabubshaddhow"><img src="./assets/social-facebook.svg" width="32%" /></a>
+  <a href="https://shaddhow.github.io/Portfolio"><img src="./assets/social-portfolio.svg" width="49%" /></a>
+  <a href="mailto:mahbubshaddhow@gmail.com"><img src="./assets/social-email.svg" width="49%" /></a>
+</p>
+<p>
+  <a href="https://linkedin.com/in/mahabubshaddhow"><img src="./assets/social-linkedin.svg" width="49%" /></a>
+  <a href="https://facebook.com/mahabubshaddhow"><img src="./assets/social-facebook.svg" width="49%" /></a>
 </p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shaddhow&label=PROFILE+TELEMETRY&color=F72585&style=flat-square&labelColor=090D16" />
+<img src="https://komarev.com/ghpvc/?username=shaddhow&label=PROFILE+TELEMETRY&color=F72585&style=flat-square&labelColor=0D1322" />
 
 </div>
