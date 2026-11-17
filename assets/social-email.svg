@@ -1,0 +1,7 @@
+<svg width="320" height="58" viewBox="0 0 320 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="318" height="56" rx="14" fill="#0F172A" stroke="#F72585" stroke-opacity="0.45" stroke-width="1.5" />
+  <rect x="12" y="11" width="36" height="36" rx="10" fill="#F72585" fill-opacity="0.15" stroke="#F72585" stroke-opacity="0.4" />
+  <path d="M22 24H38V35H22V24ZM22 24L30 30L38 24" stroke="#F72585" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="58" y="26" font-family="monospace" font-size="10.5" font-weight="bold" fill="#F472B6">DIRECT EMAIL</text>
+  <text x="58" y="42" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#F8FAFC">mahbubshaddhow@gmail.com</text>
+</svg>
